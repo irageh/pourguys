@@ -1,4 +1,219 @@
 {
+  "stickers" : [
+    {
+      "filename" : "pourGuyBlack.sticker"
+    },
+    {
+      "filename" : "pourGuyBlackStroke.sticker"
+    },
+    {
+      "filename" : "pourGuyWhite.sticker"
+    },
+    {
+      "filename" : "pourGuyWhiteStroke.sticker"
+    },
+    {
+      "filename" : "pourGuyRed.sticker"
+    },
+    {
+      "filename" : "pourGuyOrange.sticker"
+    },
+    {
+      "filename" : "pourGuyYellow.sticker"
+    },
+    {
+      "filename" : "pourGuyGreen.sticker"
+    },
+    {
+      "filename" : "pourGuyGreen2.sticker"
+    },
+    {
+      "filename" : "pourGuyCyan.sticker"
+    },
+    {
+      "filename" : "pourGuyBlue.sticker"
+    },
+    {
+      "filename" : "pourGuyPink.sticker"
+    },
+    {
+      "filename" : "pourGuyWarriors.sticker"
+    },
+    {
+      "filename" : "pourGuyGiants.sticker"
+    },
+    {
+      "filename" : "pourGuyNiners.sticker"
+    },
+    {
+      "filename" : "pourGuySharks.sticker"
+    },
+    {
+      "filename" : "pourGuyAs.sticker"
+    },
+    {
+      "filename" : "pourGuyRaiders.sticker"
+    },
+    {
+      "filename" : "pourGuyCamo.sticker"
+    },
+    {
+      "filename" : "pourGuySanta.sticker"
+    },
+    {
+      "filename" : "pourGuyUncleSam.sticker"
+    },
+    {
+      "filename" : "makeAmericaPour.sticker"
+    },
+    {
+      "filename" : "beerOlympics.sticker"
+    },
+    {
+      "filename" : "beerOlympicsWreath.sticker"
+    },
+    {
+      "filename" : "pourGuySuperman.sticker"
+    },
+    {
+      "filename" : "pourGuyHalloween.sticker"
+    },
+    {
+      "filename" : "pourGuyHalloweenBlank.sticker"
+    },
+    {
+      "filename" : "pourGals.sticker"
+    },
+    {
+      "filename" : "pourPool.sticker"
+    },
+    {
+      "filename" : "bbqPitCrew.sticker"
+    },
+    {
+      "filename" : "pitCrewWhite.sticker"
+    },
+    {
+      "filename" : "tempestBandana.sticker"
+    },
+    {
+      "filename" : "pourSF.sticker"
+    },
+    {
+      "filename" : "tempest.sticker"
+    },
+    {
+      "filename" : "tempestSquare.sticker"
+    },
+    {
+      "filename" : "tempestSquareBlankBlank.sticker"
+    },
+    {
+      "filename" : "tempestSquareWhiteBlank.sticker"
+    },
+    {
+      "filename" : "tempestStar.sticker"
+    },
+    {
+      "filename" : "tempestTrilogy.sticker"
+    },
+    {
+      "filename" : "tempestWideBlackBlank.sticker"
+    },
+    {
+      "filename" : "tempestWideWhiteBlank.sticker"
+    },
+    {
+      "filename" : "boxBlack.sticker"
+    },
+    {
+      "filename" : "boxSuperman.sticker"
+    },
+    {
+      "filename" : "boxWhite.sticker"
+    },
+    {
+      "filename" : "louiesHarpoon.sticker"
+    },
+    {
+      "filename" : "louies.sticker"
+    },
+    {
+      "filename" : "louiesName.sticker"
+    },
+    {
+      "filename" : "louiesWhaleWhite.sticker"
+    },
+    {
+      "filename" : "louiesWhite.sticker"
+    },
+    {
+      "filename" : "cy.sticker"
+    },
+    {
+      "filename" : "yankeeBanner.sticker"
+    },
+    {
+      "filename" : "yankeeBannerWhite.sticker"
+    },
+    {
+      "filename" : "yankeeDude.sticker"
+    },
+    {
+      "filename" : "yankeeDudeCY.sticker"
+    },
+    {
+      "filename" : "yankeeHat.sticker"
+    },
+    {
+      "filename" : "donutHappy1.sticker"
+    },
+    {
+      "filename" : "donutHappy2.sticker"
+    },
+    {
+      "filename" : "donutHappy3.sticker"
+    },
+    {
+      "filename" : "donutSad1.sticker"
+    },
+    {
+      "filename" : "donutSad2.sticker"
+    },
+    {
+      "filename" : "donutSad3.sticker"
+    },
+    {
+      "filename" : "donutSad4.sticker"
+    },
+    {
+      "filename" : "donutSad5.sticker"
+    },
+    {
+      "filename" : "donutsHappy.sticker"
+    },
+    {
+      "filename" : "donutsSad.sticker"
+    },
+    {
+      "filename" : "donutsText.sticker"
+    },
+    {
+      "filename" : "peoplesChamp.sticker"
+    },
+    {
+      "filename" : "pourAgainBlank.sticker"
+    },
+    {
+      "filename" : "pourAgainBlue.sticker"
+    },
+    {
+      "filename" : "pourGuysIncBlank.sticker"
+    },
+    {
+      "filename" : "pourGuysIncWhite.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
