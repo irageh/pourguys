@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		67152CD41DF144BB006F5161 /* StickerPackExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 67152CD31DF144BB006F5161 /* StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		67152CD81DF144BB006F5161 /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 67152CD71DF144BB006F5161 /* Stickers.xcstickers */; };
-		67152CD91DF144BB006F5161 /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 67152CD71DF144BB006F5161 /* Stickers.xcstickers */; };
+		671C69151DF147D3003EAC6F /* StickerPackExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 671C69141DF147D3003EAC6F /* StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		671C69191DF147D3003EAC6F /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 671C69181DF147D3003EAC6F /* Stickers.xcstickers */; };
+		671C691A1DF147D3003EAC6F /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 671C69181DF147D3003EAC6F /* Stickers.xcstickers */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		67152CD51DF144BB006F5161 /* PBXContainerItemProxy */ = {
+		671C69161DF147D3003EAC6F /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 67152CC91DF144BB006F5161 /* Project object */;
+			containerPortal = 671C690A1DF147D3003EAC6F /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 67152CD21DF144BB006F5161;
+			remoteGlobalIDString = 671C69131DF147D3003EAC6F;
 			remoteInfo = StickerPackExtension;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		67152CDF1DF144BB006F5161 /* Embed App Extensions */ = {
+		671C69201DF147D3003EAC6F /* Embed App Extensions */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				67152CD41DF144BB006F5161 /* StickerPackExtension.appex in Embed App Extensions */,
+				671C69151DF147D3003EAC6F /* StickerPackExtension.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -37,25 +37,25 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		67152CCF1DF144BB006F5161 /* Pour-Guys.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pour-Guys.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		67152CD31DF144BB006F5161 /* StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = StickerPackExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
-		67152CD71DF144BB006F5161 /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = StickerPackExtension/Stickers.xcstickers; sourceTree = "<group>"; };
+		671C69101DF147D3003EAC6F /* Pour Guys.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pour Guys.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		671C69141DF147D3003EAC6F /* StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = StickerPackExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		671C69181DF147D3003EAC6F /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = StickerPackExtension/Stickers.xcstickers; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
-		67152CC81DF144BB006F5161 = {
+		671C69091DF147D3003EAC6F = {
 			isa = PBXGroup;
 			children = (
-				67152CD71DF144BB006F5161 /* Stickers.xcstickers */,
-				67152CD01DF144BB006F5161 /* Products */,
+				671C69181DF147D3003EAC6F /* Stickers.xcstickers */,
+				671C69111DF147D3003EAC6F /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		67152CD01DF144BB006F5161 /* Products */ = {
+		671C69111DF147D3003EAC6F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				67152CCF1DF144BB006F5161 /* Pour-Guys.app */,
-				67152CD31DF144BB006F5161 /* StickerPackExtension.appex */,
+				671C69101DF147D3003EAC6F /* Pour Guys.app */,
+				671C69141DF147D3003EAC6F /* StickerPackExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -63,28 +63,28 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		67152CCE1DF144BB006F5161 /* Pour-Guys */ = {
+		671C690F1DF147D3003EAC6F /* Pour Guys */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 67152CE01DF144BB006F5161 /* Build configuration list for PBXNativeTarget "Pour-Guys" */;
+			buildConfigurationList = 671C69211DF147D3003EAC6F /* Build configuration list for PBXNativeTarget "Pour Guys" */;
 			buildPhases = (
-				67152CCD1DF144BB006F5161 /* Resources */,
-				67152CDF1DF144BB006F5161 /* Embed App Extensions */,
+				671C690E1DF147D3003EAC6F /* Resources */,
+				671C69201DF147D3003EAC6F /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				67152CD61DF144BB006F5161 /* PBXTargetDependency */,
+				671C69171DF147D3003EAC6F /* PBXTargetDependency */,
 			);
-			name = "Pour-Guys";
-			productName = "Pour-Guys";
-			productReference = 67152CCF1DF144BB006F5161 /* Pour-Guys.app */;
+			name = "Pour Guys";
+			productName = "Pour Guys";
+			productReference = 671C69101DF147D3003EAC6F /* Pour Guys.app */;
 			productType = "com.apple.product-type.application.messages";
 		};
-		67152CD21DF144BB006F5161 /* StickerPackExtension */ = {
+		671C69131DF147D3003EAC6F /* StickerPackExtension */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 67152CDC1DF144BB006F5161 /* Build configuration list for PBXNativeTarget "StickerPackExtension" */;
+			buildConfigurationList = 671C691D1DF147D3003EAC6F /* Build configuration list for PBXNativeTarget "StickerPackExtension" */;
 			buildPhases = (
-				67152CD11DF144BB006F5161 /* Resources */,
+				671C69121DF147D3003EAC6F /* Resources */,
 			);
 			buildRules = (
 			);
@@ -92,77 +92,77 @@
 			);
 			name = StickerPackExtension;
 			productName = StickerPackExtension;
-			productReference = 67152CD31DF144BB006F5161 /* StickerPackExtension.appex */;
+			productReference = 671C69141DF147D3003EAC6F /* StickerPackExtension.appex */;
 			productType = "com.apple.product-type.app-extension.messages-sticker-pack";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		67152CC91DF144BB006F5161 /* Project object */ = {
+		671C690A1DF147D3003EAC6F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0810;
 				ORGANIZATIONNAME = "Pour Guys";
 				TargetAttributes = {
-					67152CCE1DF144BB006F5161 = {
+					671C690F1DF147D3003EAC6F = {
 						CreatedOnToolsVersion = 8.1;
 						DevelopmentTeam = 7878VV4364;
 						ProvisioningStyle = Automatic;
 					};
-					67152CD21DF144BB006F5161 = {
+					671C69131DF147D3003EAC6F = {
 						CreatedOnToolsVersion = 8.1;
 						DevelopmentTeam = 7878VV4364;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = 67152CCC1DF144BB006F5161 /* Build configuration list for PBXProject "Pour Guys" */;
+			buildConfigurationList = 671C690D1DF147D3003EAC6F /* Build configuration list for PBXProject "Pour Guys" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = 67152CC81DF144BB006F5161;
-			productRefGroup = 67152CD01DF144BB006F5161 /* Products */;
+			mainGroup = 671C69091DF147D3003EAC6F;
+			productRefGroup = 671C69111DF147D3003EAC6F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				67152CCE1DF144BB006F5161 /* Pour-Guys */,
-				67152CD21DF144BB006F5161 /* StickerPackExtension */,
+				671C690F1DF147D3003EAC6F /* Pour Guys */,
+				671C69131DF147D3003EAC6F /* StickerPackExtension */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		67152CCD1DF144BB006F5161 /* Resources */ = {
+		671C690E1DF147D3003EAC6F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				67152CD91DF144BB006F5161 /* Stickers.xcstickers in Resources */,
+				671C691A1DF147D3003EAC6F /* Stickers.xcstickers in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		67152CD11DF144BB006F5161 /* Resources */ = {
+		671C69121DF147D3003EAC6F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				67152CD81DF144BB006F5161 /* Stickers.xcstickers in Resources */,
+				671C69191DF147D3003EAC6F /* Stickers.xcstickers in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		67152CD61DF144BB006F5161 /* PBXTargetDependency */ = {
+		671C69171DF147D3003EAC6F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 67152CD21DF144BB006F5161 /* StickerPackExtension */;
-			targetProxy = 67152CD51DF144BB006F5161 /* PBXContainerItemProxy */;
+			target = 671C69131DF147D3003EAC6F /* StickerPackExtension */;
+			targetProxy = 671C69161DF147D3003EAC6F /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		67152CDA1DF144BB006F5161 /* Debug */ = {
+		671C691B1DF147D3003EAC6F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -210,7 +210,7 @@
 			};
 			name = Debug;
 		};
-		67152CDB1DF144BB006F5161 /* Release */ = {
+		671C691C1DF147D3003EAC6F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -252,7 +252,7 @@
 			};
 			name = Release;
 		};
-		67152CDD1DF144BB006F5161 /* Debug */ = {
+		671C691E1DF147D3003EAC6F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
@@ -264,7 +264,7 @@
 			};
 			name = Debug;
 		};
-		67152CDE1DF144BB006F5161 /* Release */ = {
+		671C691F1DF147D3003EAC6F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
@@ -276,23 +276,23 @@
 			};
 			name = Release;
 		};
-		67152CE11DF144BB006F5161 /* Debug */ = {
+		671C69221DF147D3003EAC6F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				DEVELOPMENT_TEAM = 7878VV4364;
-				INFOPLIST_FILE = "Pour-Guys/Info.plist";
+				INFOPLIST_FILE = "Pour Guys/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.pourguys.Pour-Guys";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		67152CE21DF144BB006F5161 /* Release */ = {
+		671C69231DF147D3003EAC6F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				DEVELOPMENT_TEAM = 7878VV4364;
-				INFOPLIST_FILE = "Pour-Guys/Info.plist";
+				INFOPLIST_FILE = "Pour Guys/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.pourguys.Pour-Guys";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -301,34 +301,32 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		67152CCC1DF144BB006F5161 /* Build configuration list for PBXProject "Pour Guys" */ = {
+		671C690D1DF147D3003EAC6F /* Build configuration list for PBXProject "Pour Guys" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				67152CDA1DF144BB006F5161 /* Debug */,
-				67152CDB1DF144BB006F5161 /* Release */,
+				671C691B1DF147D3003EAC6F /* Debug */,
+				671C691C1DF147D3003EAC6F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		67152CDC1DF144BB006F5161 /* Build configuration list for PBXNativeTarget "StickerPackExtension" */ = {
+		671C691D1DF147D3003EAC6F /* Build configuration list for PBXNativeTarget "StickerPackExtension" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				67152CDD1DF144BB006F5161 /* Debug */,
-				67152CDE1DF144BB006F5161 /* Release */,
+				671C691E1DF147D3003EAC6F /* Debug */,
+				671C691F1DF147D3003EAC6F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
-		67152CE01DF144BB006F5161 /* Build configuration list for PBXNativeTarget "Pour-Guys" */ = {
+		671C69211DF147D3003EAC6F /* Build configuration list for PBXNativeTarget "Pour Guys" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				67152CE11DF144BB006F5161 /* Debug */,
-				67152CE21DF144BB006F5161 /* Release */,
+				671C69221DF147D3003EAC6F /* Debug */,
+				671C69231DF147D3003EAC6F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 67152CC91DF144BB006F5161 /* Project object */;
+	rootObject = 671C690A1DF147D3003EAC6F /* Project object */;
 }
