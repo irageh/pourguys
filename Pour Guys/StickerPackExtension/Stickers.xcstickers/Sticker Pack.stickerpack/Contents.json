@@ -37,6 +37,12 @@
       "filename" : "pourGuyPink.sticker"
     },
     {
+      "filename" : "pourGuyMapBlack.sticker"
+    },
+    {
+      "filename" : "pourGuyMapWhite.sticker"
+    },
+    {
       "filename" : "pourGuyWarriors.sticker"
     },
     {
@@ -86,6 +92,9 @@
     },
     {
       "filename" : "pourPool.sticker"
+    },
+    {
+      "filename" : "pourGuyRich.sticker"
     },
     {
       "filename" : "bbqPitCrew.sticker"
@@ -145,7 +154,31 @@
       "filename" : "louiesWhaleWhite.sticker"
     },
     {
+      "filename" : "louiesWhaleWhite2.sticker"
+    },
+    {
       "filename" : "louiesWhite.sticker"
+    },
+    {
+      "filename" : "louiesWhaleColor.sticker"
+    },
+    {
+      "filename" : "louiesGoodTime.sticker"
+    },
+    {
+      "filename" : "louiesZombieWateringHoleColor.sticker"
+    },
+    {
+      "filename" : "louiesZombieWateringHole.sticker"
+    },
+    {
+      "filename" : "louiesSharkWhite.sticker"
+    },
+    {
+      "filename" : "louiesSharkBlack.sticker"
+    },
+    {
+      "filename" : "louiesSharkBlackWithColor.sticker"
     },
     {
       "filename" : "cy.sticker"
@@ -197,6 +230,12 @@
     },
     {
       "filename" : "donutsText.sticker"
+    },
+    {
+      "filename" : "ranchJellyWhite.sticker"
+    },
+    {
+      "filename" : "ranchJellyColor.sticker"
     },
     {
       "filename" : "peoplesChamp.sticker"
