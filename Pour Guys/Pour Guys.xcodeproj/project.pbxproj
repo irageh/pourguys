@@ -280,7 +280,7 @@
 		671C69221DF147D3003EAC6F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1.4;
 				DEVELOPMENT_TEAM = 7878VV4364;
 				INFOPLIST_FILE = "Pour Guys/Info.plist";
@@ -293,7 +293,7 @@
 		671C69231DF147D3003EAC6F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1.4;
 				DEVELOPMENT_TEAM = 7878VV4364;
 				INFOPLIST_FILE = "Pour Guys/Info.plist";
