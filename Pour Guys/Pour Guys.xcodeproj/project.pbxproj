@@ -121,6 +121,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 671C69091DF147D3003EAC6F;
@@ -280,8 +281,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				CURRENT_PROJECT_VERSION = 1.4;
 				DEVELOPMENT_TEAM = 7878VV4364;
 				INFOPLIST_FILE = "Pour Guys/Info.plist";
+				MARKETING_VERSION = 1.4;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.pourguys.Pour-Guys";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -291,8 +294,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				CURRENT_PROJECT_VERSION = 1.4;
 				DEVELOPMENT_TEAM = 7878VV4364;
 				INFOPLIST_FILE = "Pour Guys/Info.plist";
+				MARKETING_VERSION = 1.4;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.pourguys.Pour-Guys";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -317,6 +322,7 @@
 				671C691F1DF147D3003EAC6F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		671C69211DF147D3003EAC6F /* Build configuration list for PBXNativeTarget "Pour Guys" */ = {
 			isa = XCConfigurationList;
@@ -325,6 +331,7 @@
 				671C69231DF147D3003EAC6F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
